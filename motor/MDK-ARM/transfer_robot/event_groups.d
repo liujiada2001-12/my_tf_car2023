@@ -1,0 +1,15 @@
+transfer_robot\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+transfer_robot\event_groups.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stdlib.h
+transfer_robot\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+transfer_robot\event_groups.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stddef.h
+transfer_robot\event_groups.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stdint.h
+transfer_robot\event_groups.o: ../Core/Inc/FreeRTOSConfig.h
+transfer_robot\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+transfer_robot\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+transfer_robot\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+transfer_robot\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+transfer_robot\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+transfer_robot\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+transfer_robot\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+transfer_robot\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+transfer_robot\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h
